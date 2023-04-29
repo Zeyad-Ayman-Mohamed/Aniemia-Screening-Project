@@ -38,7 +38,16 @@ As shown in following figures, the blue component is irrelevant and cannot be us
 [fig5]:https://github.com/Zeyad-Ayman-Mohamed/Aniemia-Screening-Project/blob/main/images/A5.png
 
 ## Models used 
-## Results
+a modified SVM(Support Vector Machine) was used, along with KNN, Decision tree, and logistic regression.
 
+## Results
+Metric| Log Reg| SVM| Tree| KNN|       
+--- | --- | --- | --- |  ---  |
+Score | 0.75 | 0.58  | 0.64 | 0.936 |0.84 
+
+58.4%
+84.6%
+75.3%
+64.6%
 
 
