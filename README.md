@@ -17,9 +17,26 @@ ROI image
 
 ![alt text][fig1]
 
-[fig1]:https://github.com/Zeyad-Ayman-Mohamed/Aniemia-Screening-Project/blob/main/images/A1.png
+[fig1]:https://github.com/Zeyad-Ayman-Mohamed/Aniemia-Screening-Project/blob/main/images/A2.png
+
+![alt text][fig1]
+
+[fig1]:https://github.com/Zeyad-Ayman-Mohamed/Aniemia-Screening-Project/blob/main/images/A3.png
+
 
 ## Feature selection
+
+The features that will be used are the mean intensity of green and red components of ROI.
+As shown in following figures, the blue component is irrelevant and cannot be used to differentiate between anemic and non-anemic. as here we only need to calculate green and red mean intestines as they what implies hemoglobin level.
+
+![alt text][fig1]
+
+[fig1]:https://github.com/Zeyad-Ayman-Mohamed/Aniemia-Screening-Project/blob/main/images/A4.png
+
+![alt text][fig1]
+
+[fig1]:https://github.com/Zeyad-Ayman-Mohamed/Aniemia-Screening-Project/blob/main/images/A5.png
+
 ## Models used 
 ## Results
 
