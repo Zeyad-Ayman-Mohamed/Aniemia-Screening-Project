@@ -43,11 +43,7 @@ a modified SVM(Support Vector Machine) was used, along with KNN, Decision tree, 
 ## Results
 Metric| Log Reg| SVM| Tree| KNN|       
 --- | --- | --- | --- |  ---  |
-Score | 0.75 | 0.58  | 0.64 | 0.936 |0.84 
+Score | 0.75 | 0.58  | 0.64 |0.84 
 
-58.4%
-84.6%
-75.3%
-64.6%
 
 
